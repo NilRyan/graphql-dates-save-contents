@@ -1,5 +1,5 @@
 ## To run locally:
-npm i
+npm i 
 npm run dev
 
 ## To run tests
